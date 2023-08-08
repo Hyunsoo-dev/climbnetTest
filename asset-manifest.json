@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/climbnetTest/static/css/main.bb7f42b3.css",
-    "main.js": "/climbnetTest/static/js/main.8c524e12.js",
+    "main.js": "/climbnetTest/static/js/main.04a04e76.js",
     "service-worker.js": "/climbnetTest/service-worker.js",
     "static/media/notFound.svg": "/climbnetTest/static/media/notFound.e64c43d67170793bcb6c447ff70cae81.svg",
+    "static/media/notFoundFinal.svg": "/climbnetTest/static/media/notFoundFinal.1831183dde0e21bab0d8050cd422253f.svg",
     "static/media/iconSeeFeed.svg": "/climbnetTest/static/media/iconSeeFeed.d2d070cdc52453be07dc197c1ba5eb34.svg",
     "index.html": "/climbnetTest/index.html",
     "static/media/settingIcon.svg": "/climbnetTest/static/media/settingIcon.e489bbb83e9a60d378288089cbe36f27.svg",
@@ -16,10 +17,10 @@
     "static/media/blue_label.svg": "/climbnetTest/static/media/blue_label.7b4ad847229c17ec579cc67f0499a4ea.svg",
     "static/media/green_label.svg": "/climbnetTest/static/media/green_label.742cc00ed8db7fbd7cd22811520c5369.svg",
     "main.bb7f42b3.css.map": "/climbnetTest/static/css/main.bb7f42b3.css.map",
-    "main.8c524e12.js.map": "/climbnetTest/static/js/main.8c524e12.js.map"
+    "main.04a04e76.js.map": "/climbnetTest/static/js/main.04a04e76.js.map"
   },
   "entrypoints": [
     "static/css/main.bb7f42b3.css",
-    "static/js/main.8c524e12.js"
+    "static/js/main.04a04e76.js"
   ]
 }
